@@ -1,0 +1,7 @@
+@import url('../../node_modules/react-select/dist/react-select.css');
+
+.mt-0 {
+  margin-top: 5px !important;
+  padding: 5px;
+  width : '-webkit-fill-available'
+}
